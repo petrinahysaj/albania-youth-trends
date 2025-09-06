@@ -12,7 +12,7 @@ The goal is to understand how these factors interact and what story they tell ab
   - `images/`
      - Saved charts and figures for the README  
 
-- `notebooks/`
+- `notebook/`
   - `data_cleaning.ipynb` → loads and cleans raw data  
   - `exploratory_analysis.ipynb` → descriptive analysis, correlations, trends  
   - `visualizations.ipynb` → visual storytelling with plots  
@@ -88,6 +88,5 @@ Values cover the period **2016–2023** and include indicators on youth emigrati
 Clone the repo and install requirements:
 
 ```bash
-git clone https://github.com/yourusername/albania-youth-trends.git
+git clone https://github.com/petrinahysaj/albania-youth-trends.git
 cd albania-youth-trends
-pip install -r requirements.txt
