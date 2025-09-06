@@ -34,10 +34,33 @@ The goal is to understand how these factors interact and what story they tell ab
 
 ## Key Insights
 
-- The **NEET rate** has been decreasing, but remains high compared to EU averages.  
-- **Youth emigration** is persistent, even as wages rise.  
-- **Education enrollment rates** are increasing, yet not fully offsetting job market challenges.  
-- **Asylum applications** correlate with broader migration trends.  
+- **NEET rate (Not in Employment, Education, or Training)** declined from **30% in 2016** to **25% in 2023**.  
+  → This indicates gradual improvement in youth integration into education or work, though the rate remains higher than EU averages.  
+
+- **Youth emigration (ages 15–29)** decreased sharply from **27,790 in 2016** to **11,948 in 2023**.  
+  → While fewer young Albanians are leaving, migration is still significant relative to the population size.  
+
+- **Tertiary enrollment (absolute numbers)** fell slightly, from **141,410 in 2016** to **120,063 in 2023**.  
+  → But the **enrollment rate (% of age group 18–24)** increased from **55% to 61%**, suggesting that even with a shrinking youth population, more young people are pursuing higher education.  
+
+- **Youth population (20–24)** declined steadily from **256,899 in 2016** to **196,240 in 2023**.  
+  → This demographic shrinkage reflects both lower birth rates and persistent emigration.  
+
+- **Average gross monthly wages** increased consistently, from **47,522 ALL in 2016** to **70,539 ALL in 2023**.  
+  → Despite wage growth, it has not been enough to fully deter emigration pressures.  
+
+- **Asylum applications (ages 15–29, % of emigrants)** decreased from **30% in 2016** to **25% in 2023**.  
+  → This suggests a shift from asylum-driven migration toward other types of mobility (e.g., work or study migration).  
+
+
+### 🔎 Overall interpretation
+
+Albania’s youth between 2016–2023 faced **contradictory trends**:  
+- Education enrollment rates are rising, wages are increasing, and NEET rates are improving.  
+- Yet the **youth population is shrinking**, and emigration, while declining, remains a persistent challenge.  
+
+This points to **systemic demographic decline** where opportunities are improving inside the country, but migration remains a strong factor shaping the future of Albania’s young population.
+
 
 
 ## Example Visuals
